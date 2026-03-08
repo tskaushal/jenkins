@@ -11,7 +11,7 @@ This repository showcases two DevOps projects focused on **CI/CD automation**, *
 
 This project implements a complete **CI/CD pipeline** that automatically builds, tests, and deploys an application to AWS infrastructure. The system supports **auto-scaling**, **load balancing**, and **blue-green deployments** to ensure high availability and minimal downtime.
 
-## Tech Stack
+ Tech Stack
 
 - AWS (EC2, Load Balancer, Auto Scaling)
 - Terraform (Infrastructure as Code)
@@ -21,8 +21,7 @@ This project implements a complete **CI/CD pipeline** that automatically builds,
 - Docker (optional)
 
 ---
-
-## Architecture Diagram
+=
 
 ```
 
